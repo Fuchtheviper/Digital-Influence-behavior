@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+  db:
+    image: mariadb
+    container_name: mariadb_container
+    restart: always
+    ports:
+      - "3307:3306"
+    environment:
+      MARIADB_ROOT_PASSWORD: admin
+      MARIADB_DATABASE: Project_DAP
+    volumes:
+      - mariadb_data:/var/lib/mysql
+  cloudbeaver:
+    image: dbeaver/cloudbeaver
+    container_name: cloudbeaver_container
+    restart: always
+    ports:
+      - "4449:8978"
+    
+    volumes:
+      - cloudbeaver:/opt/cloudbeaver/workspace
+volumes:
+  mariadb_data:
+  cloudbeaver:

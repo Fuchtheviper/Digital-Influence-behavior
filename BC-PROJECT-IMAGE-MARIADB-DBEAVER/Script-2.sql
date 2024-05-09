@@ -1,1 +1,0 @@
-SELECT * FROM DeviceUsage_Table

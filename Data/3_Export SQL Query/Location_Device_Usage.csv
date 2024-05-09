@@ -1,0 +1,17 @@
+"Device","Location","TotalUsage"
+Tablet,Office,526
+Laptop,Public Area,521
+Smartphone,Office,518
+Laptop,Office,517
+Smartphone,Public Area,516
+Tablet,Public Area,515
+Tablet,Resident,503
+Laptop,Resident,489
+PC,Office,488
+Smartphone,Transportation,484
+PC,Resident,478
+Tablet,Transportation,477
+Smartphone,Resident,471
+Laptop,Transportation,453
+SmartTV,Resident,65
+SmartTV,Office,62

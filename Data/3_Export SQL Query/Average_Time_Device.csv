@@ -1,0 +1,21 @@
+"Generation","Device","AvgTimePerUser"
+Baby Boomer,Smartphone,1.44
+Gen X,Smartphone,1.43
+Gen Z,Smartphone,1.41
+Gen Y,Smartphone,1.31
+Gen Z,Laptop,0.62
+Baby Boomer,Laptop,0.61
+Gen Y,Laptop,0.6
+Gen X,Laptop,0.55
+Gen Z,Tablet,0.49
+Gen Y,Tablet,0.49
+Gen X,Tablet,0.49
+Baby Boomer,Tablet,0.47
+Gen Y,PC,0.41
+Gen Z,PC,0.38
+Gen X,PC,0.38
+Baby Boomer,PC,0.37
+Gen Z,SmartTV,0.08
+Gen Y,SmartTV,0.07
+Baby Boomer,SmartTV,0.06
+Gen X,SmartTV,0.05

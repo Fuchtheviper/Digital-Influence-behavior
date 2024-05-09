@@ -1,0 +1,21 @@
+"Generation","ActivityType","ActivityPerUser"
+Gen Y,Social,1.06
+Baby Boomer,Social,1.06
+Gen Z,Social,1.03
+Gen X,Social,1.02
+Baby Boomer,Entertainment,0.83
+Baby Boomer,News,0.80
+Gen Y,News,0.78
+Gen Y,Entertainment,0.78
+Gen Z,Entertainment,0.77
+Gen X,News,0.76
+Gen Z,News,0.76
+Gen X,Entertainment,0.75
+Baby Boomer,Create Content,0.60
+Gen Z,Create Content,0.58
+Gen Y,Create Content,0.57
+Gen X,Create Content,0.54
+Baby Boomer,E-commerce,0.54
+Gen Y,E-commerce,0.52
+Gen X,E-commerce,0.50
+Gen Z,E-commerce,0.50
